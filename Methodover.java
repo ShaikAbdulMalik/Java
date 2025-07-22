@@ -1,4 +1,4 @@
-class Calculator
+class Calc
 {
     public int add (int n1, int n2)
     {
@@ -17,7 +17,7 @@ class Calculator
 }
 public class Methodover {
     public static void main(String[] args) {
-        Calculator obj = new Calculator();
+        Calc obj = new Calc();
         
         int r1 = obj.add(10, 20);
         double r2 = obj.add(10.4, 2.33);
