@@ -15,8 +15,12 @@ public class Three_D_arrs {
         for(int n[][]: nums)
         {
             for(int m[] : n)
-            {
-                System.out.println(m + " ");
+            {   
+                for(int value : m)
+                {
+                    System.out.print(value + " ");
+                }
+                System.out.println();
             }
         System.out.println();
         }
