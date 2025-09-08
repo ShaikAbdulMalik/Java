@@ -1,3 +1,4 @@
+package Oops;
 public class Inheri_Calc {
     public int add(int n1 , int n2)
     {

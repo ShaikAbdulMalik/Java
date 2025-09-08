@@ -1,3 +1,4 @@
+package Oops;
 class student
 {
     private String Name;

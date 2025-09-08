@@ -1,3 +1,4 @@
+package Oops;
 public class Inheri_oops {
     public static void main(String[] args) {
         
