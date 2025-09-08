@@ -1,3 +1,4 @@
+package Basics;
 public class Three_D_arrs {
     public static void main(String[] args) {
         int nums[][][] = new int[3][4][5];

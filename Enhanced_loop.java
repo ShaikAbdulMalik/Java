@@ -1,3 +1,5 @@
+import Basics.Student;
+
 class Student
 {
     int rollno;

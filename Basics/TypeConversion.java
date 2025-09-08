@@ -1,3 +1,4 @@
+package Basics;
 public class TypeConversion {
     public static void main(String[] args) {
         // type conversion refers to the process of changing value  of one data type to another
