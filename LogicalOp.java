@@ -1,4 +1,4 @@
-package Basics;
+
 public class LogicalOp {
     public static void main(String[] args) {
         boolean a = true;

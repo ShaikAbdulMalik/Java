@@ -1,4 +1,4 @@
-package Basics;
+
 class Computer
 {
     public void playingMusic()

@@ -1,4 +1,4 @@
-package Basics;
+
 public class ThreeDArrayExample {
     public static void main(String[] args) {
         int[][][] arr = new int[2][3][4];  // 2 blocks, 3 rows, 4 columns

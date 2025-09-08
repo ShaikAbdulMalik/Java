@@ -1,4 +1,4 @@
-package Basics;
+
 public class arrs {
     public static void main(String[] args) {
         

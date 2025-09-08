@@ -1,4 +1,4 @@
-package Basics;
+
 class Info
 {
     int Age;

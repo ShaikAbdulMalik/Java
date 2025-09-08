@@ -1,4 +1,4 @@
-package Basics;
+
 class Mobile
 {
     String brand;
