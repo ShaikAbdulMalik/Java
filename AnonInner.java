@@ -15,6 +15,6 @@ public class AnonInner {
                 System.out.println("In anonymous show");
             }
         };
-        obj.show();
+        obj.show();//this show a show
     }    
 }
