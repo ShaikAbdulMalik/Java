@@ -15,6 +15,7 @@ public class lambdaEX {
             System.out.println("Muliplying the numbers " + a + " and " + b);
             return a*b;
         };
-        System.out.println("Answer : " + obj.show(9,8));
+        int result = obj.show(10,4);
+        System.out.println("Answer : " + result);
     }
 }
